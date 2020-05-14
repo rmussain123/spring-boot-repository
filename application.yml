@@ -1,0 +1,7 @@
+list:
+  name : Rayhaan, Rakhaa, Hussain
+db:
+  config : "{dbname : 'localhost', userName : 'ussain', password : 'pass'}"
+  name : mysqlwe
+  port : 8976
+  pool : true
