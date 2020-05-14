@@ -1,5 +1,5 @@
 list:
-  name : Rayhaan, Rakhaa, Hussain
+  name : Rayhaan, Rakhaa, Hussain, Asleena
 db:
   config : "{dbname : 'localhost', userName : 'ussain', password : 'pass'}"
   name : mysqlwe
