@@ -1,0 +1,12 @@
+kid:
+  name : Rakhaa
+shop:
+  name : ${kid.name} reed centre
+  
+list:
+  name : Rayhaan, Rakhaa, Hussain, Asleena, Raja, Meharoonisha, Mountain, Ammapet, Salem
+db:
+  config : "{dbname : 'localhost', userName : 'ussain', password : 'passwordfromcloud'}"
+  name : mysqlwe
+  port : 8976
+  pool : true
