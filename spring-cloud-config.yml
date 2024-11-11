@@ -4,7 +4,7 @@ shop:
   name : ${kid.name} reed centre
   
 list:
-  name : Rayhaan, Rakhaa, Hussain, Asleena, Raja, Meharoonisha, Mountain, Ammapet, Salem
+  name : Rayhaan, Rakhaa, Huin, Asleena, Raja, Meharoonisha, Mountain, Ammapet, Salem
 db:
   config : "{dbname : 'localhost', userName : 'ussain', password : 'passwordfromcloud'}"
   name : mysqlwe
