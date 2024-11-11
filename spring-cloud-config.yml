@@ -10,3 +10,4 @@ db:
   name : mysqlwe
   port : 8976
   pool : false
+  pwd  : yes
